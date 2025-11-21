@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 0 0)
+		(at -325.12 214.63)
 		(size 297.18 209.55)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "f9a88ca2-69a8-42c3-a1ae-63cae6df6df1")
 		(property "Sheetname" "muty_BQ25887RGE"
-			(at 0 -0.7116 0)
+			(at -325.12 213.9184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "power.kicad_sch"
-			(at 0 210.1346 0)
+			(at -325.12 424.7646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
