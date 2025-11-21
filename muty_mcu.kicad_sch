@@ -9473,7 +9473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ndk.com/images/products/catalog/c_NX3215SA_e.pdf"
+		(property "Datasheet" "~"
 			(at 173.99 59.69 0)
 			(effects
 				(font
@@ -10267,7 +10267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.chipdip.ru/lib/736/DOC002736044.pdf"
+		(property "Datasheet" "~"
 			(at 48.26 232.41 0)
 			(effects
 				(font
@@ -10544,7 +10544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.chipdip.ru/lib/736/DOC002736044.pdf"
+		(property "Datasheet" "~"
 			(at 48.26 238.76 0)
 			(effects
 				(font
@@ -11167,7 +11167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 172.72 115.57 0)
 			(effects
 				(font
@@ -11236,7 +11236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 154.94 165.1 0)
 			(effects
 				(font
@@ -11501,7 +11501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://static.chipdip.ru/lib/736/DOC002736044.pdf"
+		(property "Datasheet" "~"
 			(at 48.26 224.79 0)
 			(effects
 				(font
@@ -12525,7 +12525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 175.26 165.1 0)
 			(effects
 				(font
@@ -12594,7 +12594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Unpolarized capacitor"
 			(at 189.23 115.57 0)
 			(effects
 				(font

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bno085")(type "KiCad")(uri "${KIPRJMOD}/lib/bno085.kicad_sym")(options "")(descr ""))
+)
