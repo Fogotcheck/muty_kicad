@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at -323.85 434.34)
+		(size 297.18 210.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b41e9a2-f2bf-433b-a2b6-ebec8d8e56df")
+		(property "Sheetname" "muty_tb6612fng"
+			(at -323.85 433.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "muty_tb6612fng.kicad_sch"
+			(at -323.85 645.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "muty"
+				(path "/c2c8c614-99fc-45e9-8585-8c2a223a7e3c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 1.27 214.63)
 		(size 298.45 210.82)
 		(exclude_from_sim no)
