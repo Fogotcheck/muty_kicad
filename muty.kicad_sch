@@ -90,6 +90,90 @@
 		)
 	)
 	(sheet
+		(at -322.58 659.13)
+		(size 297.18 210.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a69b5f73-b932-41d2-b8fe-77e28ad13812")
+		(property "Sheetname" "muty_ethernet"
+			(at -322.58 658.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "muty_ethernet.kicad_sch"
+			(at -322.58 870.5346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "muty"
+				(path "/c2c8c614-99fc-45e9-8585-8c2a223a7e3c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 1.27 434.34)
+		(size 297.18 210.82)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dc49077b-058e-4f6c-9d7e-8ca7fcdb0d54")
+		(property "Sheetname" "muty_VL53L0X"
+			(at 1.27 433.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "muty_VL53L0X.kicad_sch"
+			(at 1.27 645.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "muty"
+				(path "/c2c8c614-99fc-45e9-8585-8c2a223a7e3c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
 		(at -325.12 214.63)
 		(size 297.18 209.55)
 		(exclude_from_sim no)
